@@ -1,10 +1,10 @@
 # Itertools_Combinations-iterable-r-
 Turing Collage Problem Set
 
-#String Combinations
+# String Combinations
 This Python program takes a string and an integer value, and prints all possible combinations of the string up to a maximum size in lexicographic sorted order.
 
-#Usage
+# Usage
 To use the program, simply run the string_combinations.py script using Python 3, and enter a string and an integer value when prompted.
 
 bash
@@ -12,7 +12,7 @@ Copy code
 python3 string_combinations.py
 The program will then print all possible combinations of the string up to the given size in lexicographic sorted order.
 
-##Example
+## Example
 Suppose we want to find all possible combinations of the string "ABCD" up to size 3. We can run the program and enter the following input:
 
 bash
@@ -37,8 +37,8 @@ ABD
 ACD
 BCD
 
-#Dependencies
+# Dependencies
 The program requires Python 3 and the itertools module, which is included in the standard library.
 
-##License
+## License
 This program is released under the MIT License. See the LICENSE file for details.
